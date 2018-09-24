@@ -1,0 +1,74 @@
+/* General */ 
+main {
+	padding: 3rem 5%;
+}
+
+main h1 {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 3rem;
+	color: #212121;
+}
+
+
+/* Header */ 
+header {
+	padding: 1.5rem 5%;
+	background-color: #00796B;
+	color: #eeeeee;
+}
+
+.logo hl {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 1.5rem;
+	color: #eeeeee;
+}
+
+.menu a {
+	color: #eeeeee;
+	text-decoration: none;
+}
+
+
+/* Main Content */ 
+body {
+	font-family: 'Roboto', sans-serif; 
+	color: #424242;
+}
+
+
+/* Column Left */ 
+.col-left img {
+	width: 100%;
+}
+
+
+/* Inner Column */ 
+
+
+/* Column Right */ 
+
+
+/* Ingredients Lists */
+.ingredients ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.ingredients li {
+	padding: .5rem 0;
+	border-top: 1px dotted #BDBDBD;
+} 
+
+/* Footer */ 
+footer {
+	padding: 1.5rem 5%;
+	background-color: #bdbdbd;
+}
+
+footer a {
+	text-decoration: none;
+	font-family: 'Alfa Slab One', cursive;
+	color: #ffffff;
+	background-color: #757575;
+}
